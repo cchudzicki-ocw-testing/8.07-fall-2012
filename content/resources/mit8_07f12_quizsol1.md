@@ -3,7 +3,12 @@ content_type: resource
 description: This file contains information regarding quiz 1 solution.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/8-07-electromagnetism-ii-fall-2012/41acba595b23722c202886335cef3226_MIT8_07F12_quizsol1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: Electromagnetism II, Quiz 1 Solution
+type: OCWFile
 uid: 41acba59-5b23-722c-2028-86335cef3226
 ---

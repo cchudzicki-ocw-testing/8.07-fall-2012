@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: Electromagnetism II, Formula Sheet 2
-type: OCWFile
 uid: b40de5af-d5f2-bee0-d3ae-9352184db51f
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Electromagnetism II, Assignment 1
-type: OCWFile
 uid: b749f096-7109-af1c-15b5-786340b2f6cc
 ---

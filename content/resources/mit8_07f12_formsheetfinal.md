@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: Electromagnetism II, Final Formula Sheet
-type: OCWFile
 uid: d46f8292-8023-212f-2914-c29228dcea10
 ---

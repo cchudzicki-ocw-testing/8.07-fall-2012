@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: Electromagnetism II, Quiz 2 Solutions
-type: OCWFile
 uid: 909b0f58-90e6-9d42-d71d-18ee40df12e7
 ---

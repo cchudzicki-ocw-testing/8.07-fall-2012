@@ -25,22 +25,10 @@ FORMULA SHEETS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Quiz 1 (PDF)]({{< baseurl >}}/resources/mit8_07f12_quiz1)
+{{< resource_link 7d541f89-b161-0d64-e6a7-6599a79ef7c1 "Quiz 1 (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
- [Quiz 1 Solution (PDF)]({{< baseurl >}}/resources/mit8_07f12_quizsol1)
-{{< tdclose >}}
-{{< tdopen >}}
- 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Quiz 2 (PDF)]({{< baseurl >}}/resources/mit8_07f12_quiz2)
-{{< tdclose >}}
-{{< tdopen >}}
- [Quiz 2 Solution (PDF)]({{< baseurl >}}/resources/mit8_07f12_quizsol2)
+ {{< resource_link 41acba59-5b23-722c-2028-86335cef3226 "Quiz 1 Solution (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -49,13 +37,25 @@ FORMULA SHEETS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Final Exam (PDF)]({{< baseurl >}}/resources/mit8_07f12_finalexam)
+{{< resource_link f9576074-1eb8-298d-1f96-26d5fa28d3ef "Quiz 2 (PDF)" >}}
+{{< tdclose >}}
+{{< tdopen >}}
+ {{< resource_link 909b0f58-90e6-9d42-d71d-18ee40df12e7 "Quiz 2 Solution (PDF)" >}}
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{< resource_link 58f69cae-58e0-b474-ab7c-170ee67ed608 "Final Exam (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
 {{< tdclose >}}
 {{< tdopen >}}
- [Final Formula Sheet (PDF)]({{< baseurl >}}/resources/mit8_07f12_formsheetfinal)
+ {{< resource_link d46f8292-8023-212f-2914-c29228dcea10 "Final Formula Sheet (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

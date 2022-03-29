@@ -52,7 +52,7 @@ Alan Guth
 3
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif) {{% resource_link f2199e24-495c-1d5e-22e0-3cae0e85d96a "Integral Formulation of Basic Equations (PDF)" %}}
+ {{% resource_link f2199e24-495c-1d5e-22e0-3cae0e85d96a "Integral Formulation of Basic Equations (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Alan Guth
@@ -76,7 +76,7 @@ Alan Guth
 5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif) {{% resource_link 9070df94-553e-c562-2e72-c42641250199 "Image Charge Method; Separation of Variables (PDF)" %}}
+ {{% resource_link 9070df94-553e-c562-2e72-c42641250199 "Image Charge Method; Separation of Variables (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Alan Guth
@@ -88,7 +88,7 @@ Alan Guth
 6
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif) {{% resource_link bbca948b-5d2a-ea65-4d6f-376327a9fab0 "Separation of Variables in Spherical Coordinates (PDF)" %}}
+ {{% resource_link bbca948b-5d2a-ea65-4d6f-376327a9fab0 "Separation of Variables in Spherical Coordinates (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Alan Guth
@@ -136,7 +136,7 @@ Alan Guth
 10
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif) {{% resource_link bd0f46df-f196-aa15-97e1-b05415519b79 "Magnetic Multipole Expansion and Magnetic Dipoles (PDF)" %}}
+ {{% resource_link bd0f46df-f196-aa15-97e1-b05415519b79 "Magnetic Multipole Expansion and Magnetic Dipoles (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Alan Guth
@@ -148,7 +148,7 @@ Alan Guth
 11
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif) {{% resource_link 4c8c6cd3-12d1-91f5-98cd-e03893a5f614 "Magnetic Dipoles and Magnetic Fields in Matter (PDF)" %}}
+ {{% resource_link 4c8c6cd3-12d1-91f5-98cd-e03893a5f614 "Magnetic Dipoles and Magnetic Fields in Matter (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Alan Guth

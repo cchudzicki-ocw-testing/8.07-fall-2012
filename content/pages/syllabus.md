@@ -11,7 +11,7 @@ Lectures: 3 sessions / week, 1 hour / session
 
 ## Prerequisites
 
-[_8.03 Physics III: Vibrations and Waves_](https://ocwnext.odl.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/) and [_18.03 Differential Equations_](https://ocwnext.odl.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
+[_8.03 Physics III: Vibrations and Waves_](/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/) and [_18.03 Differential Equations_](/courses/18-03sc-differential-equations-fall-2011/)
 
 ## Textbook
 

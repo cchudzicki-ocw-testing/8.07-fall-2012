@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the course quizzes, quiz solutions, the final exam,
+  and a formula sheet for the final exam.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

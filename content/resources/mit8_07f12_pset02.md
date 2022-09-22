@@ -5,6 +5,7 @@ file: /courses/8-07-electromagnetism-ii-fall-2012/6ca38d9fd25922758bf62833467aef
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

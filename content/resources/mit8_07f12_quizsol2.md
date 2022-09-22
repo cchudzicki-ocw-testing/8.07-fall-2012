@@ -5,6 +5,7 @@ file: /courses/8-07-electromagnetism-ii-fall-2012/909b0f5890e69d42d71d18ee40df12
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
